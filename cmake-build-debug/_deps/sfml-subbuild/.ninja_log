@@ -1,0 +1,21 @@
+# ninja log v5
+0	11	1732536734206207021	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	f862b1d1b00f832c
+0	11	1732536734206207021	/Users/vladimirmalakhov/workDirectory/mipt projects/gravitation_simulation/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	f862b1d1b00f832c
+11	50471	1732536784665643492	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	a8a62dd9f2c3de1f
+11	50471	1732536784665643492	/Users/vladimirmalakhov/workDirectory/mipt projects/gravitation_simulation/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	a8a62dd9f2c3de1f
+50471	51285	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	13fb543b2a864945
+50471	51285	0	/Users/vladimirmalakhov/workDirectory/mipt projects/gravitation_simulation/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	13fb543b2a864945
+51285	51298	1732536785493216559	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	5f31deff519d9282
+51285	51298	1732536785493216559	/Users/vladimirmalakhov/workDirectory/mipt projects/gravitation_simulation/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	5f31deff519d9282
+51298	51310	1732536785504498413	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	122932574cdb4b
+51298	51310	1732536785504498413	/Users/vladimirmalakhov/workDirectory/mipt projects/gravitation_simulation/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	122932574cdb4b
+51310	51323	1732536785517743024	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	133aae21776aa92e
+51310	51323	1732536785517743024	/Users/vladimirmalakhov/workDirectory/mipt projects/gravitation_simulation/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	133aae21776aa92e
+51323	51334	1732536785528630644	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	eab307f0ece42c07
+51323	51334	1732536785528630644	/Users/vladimirmalakhov/workDirectory/mipt projects/gravitation_simulation/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	eab307f0ece42c07
+51334	51347	1732536785542302405	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	b2f53ef4ed7192d9
+51334	51347	1732536785542302405	/Users/vladimirmalakhov/workDirectory/mipt projects/gravitation_simulation/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	b2f53ef4ed7192d9
+51347	51365	1732536785560424286	CMakeFiles/sfml-populate-complete	f784c86a9b3e143e
+51347	51365	1732536785560424286	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	f784c86a9b3e143e
+51347	51365	1732536785560424286	/Users/vladimirmalakhov/workDirectory/mipt projects/gravitation_simulation/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	f784c86a9b3e143e
+51347	51365	1732536785560424286	/Users/vladimirmalakhov/workDirectory/mipt projects/gravitation_simulation/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	f784c86a9b3e143e
